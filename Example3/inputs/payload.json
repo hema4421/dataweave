@@ -1,0 +1,17 @@
+[
+   {
+      "itemName":"Gaming Laptop",
+      "itemPrice":2000,
+      "itemQuantity":3
+   },
+   {
+      "itemName":"32 Inch Monitor",
+      "itemPrice":750,
+      "itemQuantity":10
+   },
+   {
+      "itemName":"Logitech Wireless Headphone",
+      "itemPrice":90,
+      "itemQuantity":5
+   }
+]
